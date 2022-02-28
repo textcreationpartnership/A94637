@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honourable, the Lords in the High Court of Parliament assembled. The humble petition of the cause of the poore alms-men of East-ham now depending before your Lordships, together with a letter to the Right Honorable the Lo: Grey of the chaire from the honorable standing committee of Chelmsford in the county of Essex. Sheweth the difficulty and great charge the poor are and have been at to get their pensions paid them, and also how uncertainly it is to be paid hereafter.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94637</idno>
+            <idno type="STC">Wing T1662</idno>
+            <idno type="STC">Thomason E21_22</idno>
+            <idno type="STC">ESTC R2843</idno>
+            <idno type="EEBO-CITATION">99872200</idno>
+            <idno type="PROQUEST">99872200</idno>
+            <idno type="VID">154921</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94637)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154921)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E21[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honourable, the Lords in the High Court of Parliament assembled. The humble petition of the cause of the poore alms-men of East-ham now depending before your Lordships, together with a letter to the Right Honorable the Lo: Grey of the chaire from the honorable standing committee of Chelmsford in the county of Essex. Sheweth the difficulty and great charge the poor are and have been at to get their pensions paid them, and also how uncertainly it is to be paid hereafter.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>December 16, 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Concerns the pension of the almsmen of East-ham.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 16th 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor relief --  England --  Early works to 1800.</term>
+               <term>East Ham (London, England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:154921:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <head>To the Right Honourable, THE LORDS, In the High Court of Parliament aſſembled.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He humble Petition of the Cauſe of the poore Alms-men of <hi>Eaſt-ham</hi> now depending before your Lordſhips, together with a Letter to the Right Honorable the Lo: <hi>Grey</hi> of the Chaire from the Honorable ſtanding Committee of <hi>Chelmsford</hi> in the County of <hi>Eſſex.</hi> Sheweth the difficulty and great charge the poor are and have been at to get their Penſions paid them, and alſo how uncertainly it is to be paid hereafter.</p>
+            <p>It ought to be paid quarterly; but there is now our La<g ref="char:EOLhyphen"/>dy day, Midſummer, Michaelmas, &amp; almoſt Chriſtmas due. And the poore notwithſtanding the help of the ſaid Com<g ref="char:EOLhyphen"/>mittee at <hi>Chelmsford,</hi> and all other meanes they could uſe, have gotten but 6. l. of the ſaid Lady daies rent, 4. l. of Mid<g ref="char:EOLhyphen"/>ſummer<g ref="char:punc">▪</g> and 4. l. of Michaelmas rent paid them, being but the ſumme of 14. l. which is all that five poore men have had to live upon theſe twelve months, there being juſtly due unto them 40. l. <hi>per ann.</hi> from the Tenant, according to his covenant with the Lo: keeper, and Mr. <hi>Draper,</hi> ſon to the Lady, and Mr. <hi>Coniers,</hi> Purchaſer. And the Tenant his poſitive Anſwer to the Committee, is, That he will pay no more.</p>
+            <p>
+               <hi>They therefore moſt humbly pray your good Lordſhips to paſſe your judgements upon the point in Law, and matter of fact or equity, ſubmitted to your Lordſhips judge<g ref="char:EOLhyphen"/>ment, &amp; give a finall determination to their ſaid Cauſe.</hi>
+            </p>
+            <p>And they as in duty bound ſhall ever pray, &amp;c.</p>
+            <div type="part">
+               <pb facs="tcp:154921:2"/>
+               <!-- PDF PAGE 41 -->
+               <p>
+                  <hi>In further conſideration of the ſaid Cauſe, may it pleaſe your good Lordſhips to vouchſafe to peruſe ſome particulars of the proceedings thereof.</hi>
+               </p>
+               <p n="1">1. It was brought from the Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons, by Petition to your Honours, and not diſmiſt.</p>
+               <p n="2">2. It was read before your Honours, and referred to the Lo. <hi>Brampſton,</hi> who did certifie that the purchaſed Land was not of value to the deviſed Land, and above 30. miles di<g ref="char:EOLhyphen"/>ſtant from the Poores Almes-houſes. And the point ſub<g ref="char:EOLhyphen"/>mitted to by your Lordſhips judgements, was, Whether the poor might have the firſt deviſed Lands, which was of better value, and more convenient, or muſt accept of the other.</p>
+               <p n="3">3. Your Lordſhips hearing it againe, then the Senſe of the Houſe was to all that heard of it, That your Lordſhips intended the poore ſhould have their Land that was firſt de<g ref="char:EOLhyphen"/>viſed: And ordered that the Judges, and the Kings Coun<g ref="char:EOLhyphen"/>cell ſhould certifie whether your Lordſhips had power to alter a Decree made by he Lo: Keeper without an Act in Parliament, which coſt the poore ſome charge, and trou<g ref="char:EOLhyphen"/>ble to be reſolved.</p>
+               <p n="4">4. The Judges did certifie that your Lordſhips had po<g ref="char:EOLhyphen"/>wer to alter any Decree that was contrary to Equity and good Conſcience, as that was.</p>
+               <p n="5">5. The 10. of <hi>Auguſt</hi> then following, your Lordſhips ap<g ref="char:EOLhyphen"/>pointed to heare the ſaid Cauſe againe; and as we appre<g ref="char:EOLhyphen"/>hended it, to judge and determine the point ſubmitted to your Lordſhips: and therefore came unprovided of Wit<g ref="char:EOLhyphen"/>neſſes, or Councel to open the point in Law, and matter of
+<pb facs="tcp:154921:2"/>
+                  <!-- PDF PAGE 41 -->fact, to your Lordſhips; Onely one Councel to open the point in Law, (conceiving the proofes had been ſufficiently made before) which was, that a perſonall truſt dieth with the perſon truſted: And that no Purchaſer can act that, that the Truſtie ſhould have done in his life time; eſpecially when the Purchaſer hath confirmed the truſt by his owne act, and with his owne knowledge, approbation, and joynt conſent, as the Lady <hi>Kemp</hi> did with Sir <hi>Giles Allington</hi> in this Cauſe. All theſe are at large in Print, if your Lord<g ref="char:EOLhyphen"/>ſhips pleaſe to command them.</p>
+               <p n="6">6. There no Age, Time, Chronicle, Record, neither in Parliament, nor out of Parliament, that can ſhew that a Caſe ſo honeſt, juſt, and lawfull, hath been ſo many yeeres heard, read, debated, and approved of in both Houſes; re<g ref="char:EOLhyphen"/>ferred, certified by witneſſes and ſufficient teſtimony, that ever was diſmiſſed a Parliament without reliefe. But our hopes yet are, that the juſtice of a Parliament will not per<g ref="char:EOLhyphen"/>mit ſo unjuſt an act as this of the Lady <hi>Kemps</hi> is, to paſſe un<g ref="char:EOLhyphen"/>cenſured, wherein is ſo much Law and Equity as is in this. If your Honours make doubt of it, the Witneſſes are yet li<g ref="char:EOLhyphen"/>ving to teſtifie the truth, if they may be admitted to ſpeak, as the Lady <hi>Kemps</hi> have been.</p>
+            </div>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:154921:3"/>
+            <!-- PDF PAGE 42 -->
+            <head>The Copy of a Letter to the Right Honourable the Lord <hi>Grey</hi> of the Chaire (to the Honoura<g ref="char:EOLhyphen"/>ble Houſe of Peeres) from the ſtanding Com<g ref="char:EOLhyphen"/>mitte at <hi>Chelmsford</hi> in the County of <hi>Eſſex.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Lordſhip.</salute>
+            </opener>
+            <p>THe crying neceſſities if the poore Almes-men of <hi>Eaſt-ham,</hi> and these continuall Petitions and clamours unto us to help them unto their meanes (which is not in our power) enforce us to recommend their ſad con<g ref="char:EOLhyphen"/>dition unto the Honourable Houſe of Peeres, from whom is their onely hope of redreſſe. And the ſcituation of the Hoſpitall within this County, doth in the apprehenſion of theſe poore men, entitle us to this boldneſſe of interceding for them, and aſsiſting their Petition with theſe lines. The caſe is not new to your Lordſhip, having had ſeverall debates in that Ho<g ref="char:EOLhyphen"/>nourable Houſe. But they make it appeare to us by their preſent miſeries, that the intent of the Teſtator Maſter <hi>Breame,</hi> who provided a comforta<g ref="char:EOLhyphen"/>ble ſubſiſtance for them at the Hoſpitall doores, is fruſtrated (as wee are informed) by the Decree and other orders of <hi>Chancery,</hi> procured by the meanes of the purchaſer the Lady <hi>Kemp:</hi> which hath put the poore men into a ſtarving condition, whiles they expect their meanes above thirty miles off, being not able to keep Bayliffes to gather their Rent that ſhould feed them, or to ſue an untoward Tenant that will pay nothing or very little, but by compulſion. We ſhall not need to uſe importunity to that moſt Honourable Houſe in a Cauſe ſo juſt, and for the poore. And therefore humbly praying your Lordſhip to acquaint them with this our ſenes of the caſe, We preſent our ſelves</p>
+            <closer>
+               <dateline>CHELMSFORD, <date>29. Nov. 1644.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt humble and devoted Servants, 
+<list>
+                     <item>Tho. Honywood.</item>
+                     <item>William Goldingham.</item>
+                     <item>Henry Holcroft.</item>
+                     <item>Robert Smith.</item>
+                     <item>Robert Crane.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
